@@ -1,6 +1,6 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: /# 1 An Introduction
+date: 2017-09-12
+title: An Introduction
 ---
 As a teenager, Geocities and Angelfire websites were the go to for budding web designers to express themselves on a rapidly changing frontier of world wide web. A digital manifest destiny, so to speak.
 
