@@ -1,18 +1,18 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "No Fancy Theme"
+title = "Matt Freitas - Developer Journey"
 theme = "nofancy"
 
 #if not set copyright, default copyright template will be applied
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+copyright = "Copyright (c) 2017, Matt Freitas; all rights reserved."
 
 [params]
     highlight="Assign a syntax highlight style"
 
 [author]
-    name = "Steve Francia"
-    github = "spf13"
-    linkedin = "YOUR LINKEDIN ID"
-    facebook = "YOUR FB ID"
+    name = "Matt Freitas"
+    github = "chupacabreh"
+    linkedin = "matthew-freitas-547b48132"
+    facebook = "matthew.freitas"
     gaID = "YOUR Google Analytics Tracking ID"
-    twitter = "YOUR TWITTER ID"
+    twitter = "chupacabreh"
