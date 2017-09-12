@@ -1,6 +1,7 @@
 ---
 date: 2017-09-12
 title: An Introduction
+description: some background info and primer about my interest in web development
 ---
 As a teenager, Geocities and Angelfire websites were the go to for budding web designers to express themselves on a rapidly changing frontier of world wide web. A digital manifest destiny, so to speak.
 
@@ -8,7 +9,7 @@ I had a passion for online gaming; it was new and exciting. The idea that I coul
 
 I created my first websites based on games like Final Fantasy VII for the PlayStation, Quake and Unreal Tournament for the PC. I was heavily active in the online community that surrounded these games. Clans, competitive play, daily news sites, mods and new maps-- a literal virtual world right at my disposal. My first "serious" website was called Bot Lair. I found it on the web archive here:
 
-https://web.archive.org/web/19990128091316fw_/http://quake2.com:80/botlair/.
+https://web.archive.org/web/19990128091316fw_/http://quake2.com:80/botlair/
 
 It was a semi-daily news site dedicated specifically around artificial opponents known as bots that could be used in a multiplayer setting without actually going online. Essentially they took on the role of human competitors during online play.
 
